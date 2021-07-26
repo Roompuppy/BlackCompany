@@ -44,9 +44,30 @@ TagManager:
   - name: Backgroud
     uniqueID: 3367511305
     locked: 0
+  - name: Floor
+    uniqueID: 644769017
+    locked: 0
+  - name: Plant
+    uniqueID: 1494616943
+    locked: 0
+  - name: Wallback
+    uniqueID: 1056055791
+    locked: 0
   - name: Player
     uniqueID: 2555624279
     locked: 0
-  - name: water
-    uniqueID: 1494616943
+  - name: Wallfront
+    uniqueID: 1855576513
+    locked: 0
+  - name: Tree
+    uniqueID: 3949246839
+    locked: 0
+  - name: Light1
+    uniqueID: 2274962933
+    locked: 0
+  - name: Shadow
+    uniqueID: 2756165541
+    locked: 0
+  - name: Light2
+    uniqueID: 1000161811
     locked: 0
